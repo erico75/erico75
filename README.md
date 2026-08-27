@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I'm Érico Carvalho Nobre. If you want to contact me, my Linkedin is , my email is [ericonobre131@gmail.com](mailto:ericonobre131@gmail.com), and my phone is +55 (11) 99410-5924.
+I'm Érico Carvalho Nobre. If you want to contact me, my Linkedin is https://www.linkedin.com/in/%C3%A9rico-carvalho-nobre-527626429/, my email is [ericonobre131@gmail.com](mailto:ericonobre131@gmail.com), and my phone is +55 (11) 99410-5924.
 
 I study Computer Science at Instituto Mauá de Tecnologia (2025–2028).
 
