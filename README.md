@@ -4,25 +4,25 @@ I'm Érico Carvalho Nobre. If you want to contact me, my Linkedin is https://www
 
 I study Computer Science at Instituto Mauá de Tecnologia (2025–2028).
 
-## 🖥️ My Operating Systems
+## My Operating Systems
 
-* 🐧 **Linux:** CachyOS with Niri
-* 🪟 **Windows:** Windows 11
-* 🔄 Dual-boot setup
+*  **Linux:** CachyOS with Niri
+*  **Windows:** Windows 11
+*  Dual-boot setup
 
-## 📚 Public Projects
+## Public Projects
 
 * ♟️ **Chess Engine** — A fully fledged chess engine with advanced enemy AI.
 
-## 🚀 My Tech Stack
+## My Tech Stack
 
 | Category                | Technologies                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 💻 Languages            | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) |
-| 📱 Frontend & Mobile    | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge\&logo=react\&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)                                                                                                 |
-| 🗄️ Databases           | ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge\&logo=mongodb\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)                                                                                                                                                                                                           |
-| 🛠️ Tools               | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)                                                                                                                                                                                                      |
-| ⚡ Productivity & Design | ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge\&logo=obsidian\&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)                                                                                                                                                                                                        |
+| Languages            | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) |
+| Frontend & Mobile    | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge\&logo=react\&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)                                                                                                 |
+| Databases           | ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge\&logo=mongodb\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)                                                                                                                                                                                                           |
+| Tools               | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)                                                                                                                                                                                                      |
+| Productivity & Design | ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge\&logo=obsidian\&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)                                                                                                                                                                                                        |
 
 ### 🎓 Certifications & Learning: English
 
