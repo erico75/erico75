@@ -13,6 +13,7 @@ I study Computer Science at Instituto Mauá de Tecnologia (2025–2028).
 ## Public Projects
 
 * ♟️ **Chess Engine** — A full chess game and rule engine in Java.
+* (https://github.com/erico75/ChessEngine)
 
 ## My Tech Stack
 
