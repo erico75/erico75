@@ -12,7 +12,7 @@ I study Computer Science at Instituto Mauá de Tecnologia (2025–2028).
 
 ## Public Projects
 
-* ♟️ **Chess Engine** — A fully fledged chess engine with advanced enemy AI.
+* ♟️ **Chess Engine** — A full chess game and rule engine in Java.
 
 ## My Tech Stack
 
